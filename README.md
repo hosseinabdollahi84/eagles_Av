@@ -1,4 +1,4 @@
-# 🦅 Deagles AV
+# 🦅 eagles AV
 ## Advanced Hybrid Malware Analysis Suite
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 
-Deagles AV is a modern Android malware analysis framework that combines static inspection, cloud-based intelligence, and AI-driven threat synthesis to bridge traditional signature-based detection with behavioral analysis.  
+eagles AV is a modern Android malware analysis framework that combines static inspection, cloud-based intelligence, and AI-driven threat synthesis to bridge traditional signature-based detection with behavioral analysis.  
 Future updates will focus on improving response quality, increasing detection accuracy, and enhancing partial offline analysis capabilities to ensure more reliable operation with reduced cloud dependency.
 
 ---
@@ -47,7 +47,7 @@ lib/
 ```
 ## 🧠 System Overview
 
-Deagles AV analyzes Android applications using a hybrid security pipeline that integrates static analysis, cloud-based behavioral intelligence, and AI-powered verdict synthesis.
+eagles AV analyzes Android applications using a hybrid security pipeline that integrates static analysis, cloud-based behavioral intelligence, and AI-powered verdict synthesis.
 Planned improvements include refined heuristic scoring, faster response times, higher detection precision, and stronger offline static analysis for environments with limited connectivity.
 
 
